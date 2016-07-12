@@ -17,6 +17,7 @@ body{
 .counter{
 	display:inline;
 	left: 10px;
+	top: 5px;
 }
 
 /* Initial menu */
