@@ -26,7 +26,8 @@ body{
 
 /* Basic styling*/
 .jumbotron{
-	background-image: url('http://i.imgur.com/iG9xy3o.jpg');
+	background-image: url('http://i.imgur.com/GXv7oJC.jpg');
+	background-size: cover;
 	height: 1000px;
 	
 }
