@@ -16,7 +16,9 @@ body{
 
 .counter{
 	left: 20px;
+	top: 5px;
 }
+
 /* Initial menu */
 .menu{
 	background: #202024 url('http://i.imgur.com/NCE8QED.png') repeat left top;
